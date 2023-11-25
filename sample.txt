@@ -1,4 +1,4 @@
 This is my first text.
 
 I am a js developer and I am developing a web project.
-I am also learning git.
+I am also learning github branching.
